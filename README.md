@@ -7,3 +7,11 @@ When an original C64 power supply fails, it usually starts outputting >5V on the
 This is a simple design for a supplemental 5V regulator to protect the computer in the event that the original power supply fails.
 It uses a MIC29510 Low-Drop-Out 5V regulator to further condition the +5V rail.
 This prevents over-voltage, while still providing enough power to run the computer if the original power supply is still running in-spec.
+
+## Images
+
+![The adapter](img/filter.jpg)
+
+![Board top side](img/top.jpg)
+
+![Board bottom side](img/bottom.jpg)
